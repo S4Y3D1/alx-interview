@@ -1,2 +1,3 @@
 # alx-interview
-Dealing, with Technical interview Questions!
+Yes, Technical Interview Questions!
+Here, I tackle technical Interview Questions!!!
